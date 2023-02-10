@@ -260,7 +260,7 @@ export default function Nav() {
                 <div className="border-t border-gray-200 py-6 px-4">
                   <a href="#" className="-m-2 flex items-center p-2">
                     <img
-                      src="https://tailwindui.com/img/flags/flag-canada.svg"
+                      src="https://tailwindui.com/img/flags/flag-CAD.svg"
                       alt=""
                       className="block h-auto w-5 flex-shrink-0"
                     />
